@@ -1,0 +1,7 @@
+C:\Users\Daniel.Moabelo\source\repos\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe.config
+C:\Users\Daniel.Moabelo\source\repos\TelephoneDirectory\bin\Debug\TelephoneDirectory.exe
+C:\Users\Daniel.Moabelo\source\repos\TelephoneDirectory\bin\Debug\TelephoneDirectory.pdb
+C:\Users\Daniel.Moabelo\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\Daniel.Moabelo\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Moabelo\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.exe
+C:\Users\Daniel.Moabelo\source\repos\TelephoneDirectory\obj\Debug\TelephoneDirectory.pdb
